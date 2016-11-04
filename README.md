@@ -1,6 +1,6 @@
 better-java8-monads
 ==================
-
+Fork of better-java8-monads - https://github.com/jasongoodwin/better-java-monads on the issue "How to get the exception from a failed try? #22" https://github.com/jasongoodwin/better-java-monads/issues/22.
 I can't help but feel there were some important omissions in the Java8 library. This library attempts to fill in some of those short-comings.
 
 Feature Overview
